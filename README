@@ -1,0 +1,4 @@
+Make sure to replace 'YOUR_PUSHOVER_API_TOKEN' and 'YOUR_PUSHOVER_USER_KEY' in the $config array with your actual Pushover API token and user key.
+
+
+Now, whenever the server status changes, the script will send a push notification to your registered devices via the Pushover service.
